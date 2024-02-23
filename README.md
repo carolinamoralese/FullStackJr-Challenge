@@ -1,1 +1,1 @@
-# FullStackJr-Challenge
+# FullStackJrChallenge-Backend
